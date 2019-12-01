@@ -52,5 +52,5 @@ Functions 2) Class ● Python for Data Science - Data Manipulation on IRIS Data 
 
 ● Using Javascript - Loading JSON data dynamically on the client side.
  # Data sceience
-![](Lab-5/screenshots/Screenshot%20(12).png
+![](Lab-5/screenshots/Screenshot%20(12).png)
 
