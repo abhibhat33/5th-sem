@@ -55,5 +55,5 @@ Functions 2) Class ● Python for Data Science - Data Manipulation on IRIS Data 
 ![](Lab-5/screenshots/Screenshot%20(12).png)
 # FLASK
 ![](Lab-5/screenshots/Screenshot%20(13).png)
-#JSON
+# JSON
 ![](Lab-5/screenshots/Screenshot%20(14).png)
